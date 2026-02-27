@@ -135,3 +135,14 @@ Nom partenaire	Alphanumérique	150 caractères
 Date début contrat	Date	10 caractères
 Date fin contrat	Date	10 caractères
 Canal de vente	Alphanumérique	50 caractères
+
+Modèle conceptuel de données (MCD) :
+
+<img width="666" height="510" alt="MCD png" src="https://github.com/user-attachments/assets/ed456444-07dd-45b9-b1a8-121bad76589a" />
+
+(lien vers l'image écrit juste au dessus)
+
+
+
+
+
