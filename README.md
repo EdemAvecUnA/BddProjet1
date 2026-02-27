@@ -138,7 +138,8 @@ Canal de vente	Alphanumérique	50 caractères
 
 Modèle conceptuel de données (MCD) :
 
-<img width="666" height="510" alt="MCD png" src="https://github.com/user-attachments/assets/ed456444-07dd-45b9-b1a8-121bad76589a" />
+<img width="666" height="510" alt="MCD png" src="https://github.com/user-attachments/assets/f333ce4f-9e6a-49df-a35e-a26083e9cb24" />
+
 
 (lien vers l'image écrit juste au dessus)
 
