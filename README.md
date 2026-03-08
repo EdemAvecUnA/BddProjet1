@@ -141,7 +141,12 @@ Modèle conceptuel de données (MCD) :
 <img width="666" height="510" alt="MCD png" src="https://github.com/user-attachments/assets/f333ce4f-9e6a-49df-a35e-a26083e9cb24" />
 
 
-(lien vers l'image écrit juste au dessus)
+Modèle logique de données (MLD):
+
+<img width="770" height="514" alt="Capture d&#39;écran 2026-03-08 142909" src="https://github.com/user-attachments/assets/cab28db2-3f14-46a1-832d-3da7d8cd1b59" />
+
+
+
 
 
 
