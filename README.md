@@ -167,6 +167,16 @@ Les clés étrangères doivent correspondre aux clés primaires existantes.
 Remplir d’abord les tables sans clés étrangères puis celles qui en contiennent.
 Fournis l’ensemble sous la forme d’un script SQL prêt à être exécuté.
 
+Scénario d’utilisation : 
+
+La base de données Shônen LAB permet de gérer les informations relatives aux mangas publiés par l’éditeur. Elle stocke notamment les données concernant les auteurs, les mangas, les tomes et les partenaires.
+Dans un premier temps, l’entreprise peut enregistrer les auteurs travaillant avec elle, qu’ils soient français ou japonais. Chaque auteur possède un identifiant unique, un nom et une nationalité.
+Ensuite, les mangas sont enregistrés dans la base de données. Chaque manga possède un titre, un genre et est associé à un auteur. Cela permet de savoir rapidement quel auteur est responsable d’une œuvre.
+Chaque manga est composé de plusieurs tomes. Les tomes possèdent un numéro et une date de sortie officielle. Ces informations permettent de suivre la publication des séries et de connaître les volumes disponibles.
+Les partenaires représentent les entreprises ou éditeurs avec lesquels Shônen LAB collabore, par exemple pour les licences de mangas japonais ou les adaptations de jeux vidéo.
+Grâce aux requêtes SQL, l’entreprise peut facilement exploiter les données. Par exemple, il est possible d’afficher la liste des mangas, de connaître les auteurs associés, de consulter les tomes disponibles ou encore d’obtenir des statistiques comme le nombre de tomes par manga.
+Ce système d’information permet donc à Shônen LAB de centraliser et organiser efficacement ses informations éditoriales.
+
 
 
 
