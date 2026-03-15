@@ -145,7 +145,27 @@ Modèle logique de données (MLD):
 
 <img width="770" height="514" alt="Capture d&#39;écran 2026-03-08 142909" src="https://github.com/user-attachments/assets/cab28db2-3f14-46a1-832d-3da7d8cd1b59" />
 
+Prompt partie 4 : 
 
+Donne les requêtes d’insertion permettant de remplir la base de données dont le modèle relationnel est le suivant :
+Auteur(idAuteur, nomAuteur, nationalite)
+Clé primaire : idAuteur
+Partenaire(idPartenaire, nomPartenaire)
+Clé primaire : idPartenaire
+Manga(idManga, titre, genre, #idAuteur)
+Clé primaire : idManga
+Clé étrangère : idAuteur → Auteur(idAuteur)
+Tome(idTome, numeroTome, dateSortie, #idManga)
+Clé primaire : idTome
+Clé étrangère : idManga → Manga(idManga)
+Générer :
+-10 auteurs
+-5 partenaires
+-10 mangas
+-30 tomes
+Les clés étrangères doivent correspondre aux clés primaires existantes.
+Remplir d’abord les tables sans clés étrangères puis celles qui en contiennent.
+Fournis l’ensemble sous la forme d’un script SQL prêt à être exécuté.
 
 
 
